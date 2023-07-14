@@ -4,6 +4,9 @@ import jakarta.persistence.*;
 
 import java.util.Objects;
 
+/**
+ * <h1>Object Game, with all attributes</h1>
+ * */
 @Entity
 @Table(name = "tb_game")
 public class Game {

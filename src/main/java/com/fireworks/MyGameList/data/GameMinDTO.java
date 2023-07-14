@@ -1,4 +1,4 @@
-package com.fireworks.MyGameList.dto;
+package com.fireworks.MyGameList.data;
 
 import com.fireworks.MyGameList.entities.Game;
 
@@ -10,6 +10,10 @@ public class GameMinDTO {
     private String imgUrl;
     private String shortDescription;
 
+    /**
+     * <h1>Show Shortly Game Info </h1>
+     *
+     * */
     public GameMinDTO() {
     }
 
