@@ -1,6 +1,23 @@
 # MyGameList
 This is a copy of  myAnimeList, but with games
 
-![img_2.png](img_2.png)
+## This is a study project
 
-During the first live, i've learned all this concepts, and practice
+- ### Concepts 
+    - Web Systems and resources
+    - Client/Server, HTTP, JSON
+    - Rest pattern for web API 
+- Spring Rest project structuring
+- ORM (Object Relational Mapping) and entities
+- DataBase seeding
+- Layers Pattern
+- Controller, Service and repository
+- DTO pattern
+- N-N relationship
+- Association Class, embedded id
+- SQL consults in Spring Data JPA
+- Projections
+
+** Concept Model **
+![img.png](img.png)
+
